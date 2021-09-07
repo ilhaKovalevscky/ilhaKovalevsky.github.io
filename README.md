@@ -1,2 +1,2 @@
-# ilhaKovalevsky.github.io
+# Илья Ковалевский
 Мой первый сайт :)
